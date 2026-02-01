@@ -22,6 +22,7 @@ void intercambiar(int &a, int &b);
 
 // 8. Riveros Guevara
 // IsPrime
+bool esPrimo(int &n);
 
 // 9. Segovia Giancarlo
 // fibonacci
