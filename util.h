@@ -29,6 +29,7 @@ bool esPrimo(int &n);
 
 // 10. Suarez Maciel Susana Isabel
 // average()
+float average(int x, int y);
 
 // 11. Tellez Jhon
 // sumar 10 numeros naturales
@@ -38,6 +39,7 @@ bool esPrimo(int &n);
 
 // 13. Vilca Aguilar Luis
 // root
+float raiz(float a);
 
 // 14. Vinatea Chávez Camilo Jorge
 // power
