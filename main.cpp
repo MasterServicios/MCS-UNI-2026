@@ -56,6 +56,10 @@ int main(){
 
 // 12. Valcarcel Julian
 // float round(float f, int n)
+    std::cout << "Demo Julian Valcarcel" << std::endl;
+    f1 = 3.14159;  // Usamos f1 que ya existe arriba
+    x = 2;         // Usamos x para la cantidad de decimales
+    std::cout << "Redondear " << f1 << " a " << x << " decimales: " << redondear(f1, x) << "\n\n";
 
 // 13. Vilca Aguilar Luis
 // root

@@ -36,6 +36,7 @@ float average(int x, int y);
 
 // 12. Valcarcel Julian
 // float round(float f, int n)
+float redondear(float n, int decimales);
 
 // 13. Vilca Aguilar Luis
 // root

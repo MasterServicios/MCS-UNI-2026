@@ -49,6 +49,10 @@ float average(int x, int y){
 
 
 // 12. Valcarcel Julian
+float redondear(float n, int decimales) {
+    float escala = std::pow(10, decimales);
+    return std::round(n * escala) / escala;
+}
 
 
 // 13. Vilca Aguilar Luis
